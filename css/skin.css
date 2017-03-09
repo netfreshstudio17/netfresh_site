@@ -468,6 +468,10 @@ h5.project-title{
 	color: #6ed3cf;
 }
 
+/*bluegreen*/
+.bkg-bgreen{
+    background-color: #6fb0c8;
+}
 
 /*------------------------------------------------------------------
 [3. Section Padding]
@@ -854,7 +858,7 @@ h5.project-title{
 .tms-arrow-nav{
 	background: none;
 	font-size: 2rem;
-	color: #666;
+	color: #fff;
 	border: 1px solid rgba(255,255,255,0.2);
 }
 .tms-arrow-nav:hover{
@@ -1214,6 +1218,17 @@ h5.project-title{
 [13. Project Pages]
 */
 
+.aj_center{
+    display: block;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
+.mvp-image{
+    display: block;
+    margin: 0 auto;
+}
 
 /* Grid */
 .masonry-stamp .caption-over-outer,
