@@ -2659,40 +2659,40 @@ only screen and (				min-resolution: 2dppx) {
 
 	/* Project Pagination */
 	.project-1-prev{
-		background-image: url(../images/portfolio/pagination/project-1-prev@2x.jpg);
+		background-image: url(../images/portfolio/pagination/previous_proj.png);
 	}
 	.project-1-next{
-		background-image: url(../images/portfolio/pagination/project-1-next@2x.jpg);
+		background-image: url(../images/portfolio/pagination/next_proj.png);
 	}
 	.project-2-prev{
-		background-image: url(../images/portfolio/pagination/project-2-prev@2x.jpg);
+		background-image: url(../images/portfolio/pagination/previous_proj.png);
 	}
 	.project-2-next{
-		background-image: url(../images/portfolio/pagination/project-2-next@2x.jpg);
+		background-image: url(../images/portfolio/pagination/next_proj.png);
 	}
 	.project-3-prev{
-		background-image: url(../images/portfolio/pagination/project-3-prev@2x.jpg);
+		background-image: url(../images/portfolio/pagination/previous_proj.png);
 	}
 	.project-3-next{
-		background-image: url(../images/portfolio/pagination/project-3-next@2x.jpg);
+		background-image: url(../images/portfolio/pagination/next_proj.png);
 	}
 	.project-4-prev{
-		background-image: url(../images/portfolio/pagination/project-4-prev@2x.jpg);
+		background-image: url(../images/portfolio/pagination/previous_proj.png);
 	}
 	.project-4-next{
-		background-image: url(../images/portfolio/pagination/project-4-next@2x.jpg);
+		background-image: url(../images/portfolio/pagination/next_proj.png);
 	}
 	.project-5-prev{
-		background-image: url(../images/portfolio/pagination/project-5-prev@2x.jpg);
+		background-image: url(../images/portfolio/pagination/previous_proj.png);
 	}
 	.project-5-next{
-		background-image: url(../images/portfolio/pagination/project-5-next@2x.jpg);
+		background-image: url(../images/portfolio/pagination/next_proj.png);
 	}
 	.project-6-prev{
-		background-image: url(../images/portfolio/pagination/project-6-prev@2x.jpg);
+		background-image: url(../images/portfolio/pagination/previous_proj.png);
 	}
 	.project-6-next{
-		background-image: url(../images/portfolio/pagination/project-6-next@2x.jpg);
+		background-image: url(../images/portfolio/pagination/next_proj.png);
 	}
 
 	/* Singup Sections */
